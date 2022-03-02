@@ -1,0 +1,1 @@
+# concrete_compressive_strength_deep_learning_detail
